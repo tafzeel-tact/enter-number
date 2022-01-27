@@ -1,0 +1,11 @@
+.w1-a2-enter-number {
+  align-items: center;
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 910px;
+  overflow: hidden;
+  position: relative;
+  width: 1680px;
+}
+
